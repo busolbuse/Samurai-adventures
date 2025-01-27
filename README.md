@@ -10,11 +10,19 @@
 
 # <i> Enemy System </i>
 
+# Game Assets: 
+craftpix.net
+opengameart.org
+
 # Authorities:
 
 Zeynep Çapak
 
 Buse Berren Ünal
+
+# 
+<b><i> Made by Unity </i></b>
+
 
 
 
