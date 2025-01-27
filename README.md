@@ -10,5 +10,13 @@
 
 # <i> Enemy System </i>
 
+# Authorities:
+
+Zeynep Çapak
+
+Buse Berren Ünal
+
+
+
 
 
