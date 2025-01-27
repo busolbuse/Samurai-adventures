@@ -40,7 +40,7 @@ craftpix.net
 
 opengameart.org
 
-# Authorities:
+# Game Developers:
 
 :monocle_face: Zeynep Çapak
 
