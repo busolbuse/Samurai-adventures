@@ -7,7 +7,6 @@
 
 # <i> Chest </i>
 
-# <i> Dialogue System </i>
 
 # <i> Enemy System </i>
 
