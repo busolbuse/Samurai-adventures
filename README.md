@@ -2,6 +2,7 @@
 <b><i> We are continuing the production of our game about the adventures of the samurai! We are waiting for your feedback. </i></b>
 # <i> Inventory System </i>
 
+https://github.com/user-attachments/assets/adf45706-9734-4b21-8b55-b632a192b0e8
 
 # <i> Dialogue System </i>
 
@@ -9,7 +10,7 @@
 
 
 # <i> Enemy System </i>
-https://github.com/user-attachments/assets/adf45706-9734-4b21-8b55-b632a192b0e8
+
 
 # Game Assets: 
 
