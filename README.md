@@ -9,7 +9,7 @@
 
 
 # <i> Enemy System </i>
-https://github.com/busolbuse/Samurai-adventures/issues/1#issue-2814042338
+https://github.com/user-attachments/assets/adf45706-9734-4b21-8b55-b632a192b0e8
 
 # Game Assets: 
 
